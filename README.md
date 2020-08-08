@@ -1,5 +1,6 @@
-# face-mask-detector
- COVID-19 face mask detector with OpenCV and Keras/TensorFlow.
+# Face Mask Detector Using COVID-19
+
+COVID-19 face mask detector with OpenCV and Keras/TensorFlow.
  
  ### Architecture of Mask Detection Model
 We have fine-tuned the MobileNet V2 architecture, a highly efficient architecture which works well with limited computational capacity.
